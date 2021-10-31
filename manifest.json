@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Grayscale Texture By Edsel ig:@edzelfrd",
+        "name": "Grayscale Texture Pack v1.1",
+        "uuid": "d565b075-d07b-4564-9aea-16c4c555f1ac",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 17, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Grayscale Texture By Edsel ig:@edzelfrd",
+            "type": "resources",
+            "uuid": "68a0ea0d-a265-4985-a6a4-4992fa30d8bd",
+            "version": [0, 0, 1]
+        }
+    ]
+}
