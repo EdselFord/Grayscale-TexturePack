@@ -150,9 +150,6 @@
       "cake" : {
          "textures" : "textures/items/cake"
       },
-      "camera" : {
-         "textures" : "textures/items/camera"
-      },
       "campfire" : {
          "textures" : "textures/items/campfire"
       },
